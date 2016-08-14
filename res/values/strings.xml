@@ -1,0 +1,113 @@
+<resources>
+
+    <string name="app_name">Questo</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1570707739895693</string>
+    <string name="title_material_metaphor">Questo</string>
+    <string name="title_material_bold">
+Leadership Board </string>
+    <string name="title_material_motion">
+Questo Feed (Share your Story)
+</string>
+    <string name="title_material_shadow">Tags</string>
+
+    <string name="description_material_metaphor">
+
+ Any user can post question (MCQ) and answer question\n
+
+if he succeed to answer, 1 point will be awarded to user who attempted\n\n
+
+if he failed to answer, 1 point will be awarded to question owner\nand -1 will be awarded to user who attempted
+</string>
+    <string name="description_material_bold">Users all over world will be compared with score they attained.
+</string>
+    <string name="description_material_motion">Questo Feed is a platform where user can post feeds with tags included.
+
+        Write something that you want to confess with world.
+</string>
+    <string name="description_material_shadow">  Tags can be followed by users.\n
+
+User will be notified if any questions or feed is added to the tag which he is following
+</string>
+
+    <string name="title_custom_fragment_1">This is a custom fragment.</string>
+    <string name="hint_fake_input_1_custom_fragment_1">Fake input #1</string>
+    <string name="hint_fake_input_2_custom_fragment_1">Fake input #2</string>
+    <string name="label_fake_button_custom_fragment_1">Fake input #2</string>
+    <string name="title_custom_fragment_2">Take off!</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_other_inputs">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+<string name="large_text">
+
+
+
+
+    My name is SaiTej Dandge,\n and I\'’m a mobile product developer and user experience/interface engineer.\n\n
+
+
+I\'m currently studying CSE at CBIT, Hyderabad.\n\n
+
+
+I\'ve been playing with Android platform since 3 years and have been recognized as Google Facilitator at my campus.\n\n
+
+
+In past 3 years I\'ve made 3 apps and conducted  workshops on Android Development with Data Structures in my college.\n\n
+
+
+I mainly focus on creating polished, pixel-perfect, smooth and responsive applications with good material design.\n\n
+
+
+This is what I love to do and I kindly request to share this app and help us in reaching 1k users.\n\n
+
+
+
+    </string>
+
+    <string name="title_activity_add_question">AddQuestion</string>
+
+    <string name="title_activity_notifications">NotificationsActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_my_categories">MyCategories</string>
+    <string name="title_activity_tag">TagActivity</string>
+    <string name="title_activity_my_friends">MyFriends</string>
+    <string name="title_activity_my_category_tabs">MyCategoryTabs</string>
+    <string name="title_activity_follow_stuff">FollowStuffActivity</string>
+    <string name="title_activity_cat_open">CatOpenActivity</string>
+    <string name="title_activity_add_article_material">AddArticleMaterial</string>
+    <string name="title_activity_tag_open">TagOpenActivity</string>
+    <string name="title_activity_article">ArticleActivity</string>
+    <string name="title_activity_article_open">ArticleOpenActivity</string>
+    <string name="title_activity_material_notifications">MaterialNotifications</string>
+    <string name="title_activity_question_open">QuestionOpenActivity</string>
+    <string name="title_activity_search_">Search_Activity</string>
+    <string name="title_activity_reactions_">Reactions_Activity</string>
+    <string name="title_activity_reacted_users">ReactedUsersActivity</string>
+    <string name="title_activity_explore_">Explore_Activity</string>
+    <string name="title_activity_comment">CommentActivity</string>
+    <string name="title_activity_favorite_">Favorite_Activity</string>
+    <string name="title_activity_add_new_tag">AddNewTag</string>
+    <string name="title_activity_leadershipboard_activity">Leadershipboard_activity</string>
+    <string name="title_activity_score_chart">ScoreChart</string>
+    <string name="title_activity_edit__my__profile">Edit_My_Profile</string>
+    <string name="title_activity_about_me">About_me</string>
+    <string name="title_activity_chat_main">ChatMain</string>
+    <string name="title_activity_chat_open">ChatOpenActivity</string>
+</resources>
