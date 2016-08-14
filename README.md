@@ -20,5 +20,5 @@ Firebase Cloud messaging
 Facebook SDK
 Google Cloud Storage
 
-![ScreenShot](https://raw.github.com/saitejdandge/Questo/master/Questo/Screenshots/Screenshot_2016-06-20-21-55-06.png)
+![ScreenShot](https://raw.github.com/saitejdandge/Questo/master/Screenshots/Screenshot_2016-06-20-21-55-06.png)
 
