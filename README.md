@@ -12,12 +12,14 @@ Tag wise experts are shown
 Integrated with Quora & Stack Exchange 
 
 
-<b>Technologies / SDK's / API's used :</b>
-Firebase Real Time Database
-Firebase Cloud messaging
-Facebook SDK
-Google Cloud Storage
-
+<b>Technologies / SDK's / API's used :
+<ul>
+<li>Firebase Real Time Database</li>
+<li>Firebase Cloud messaging</li>
+<li>Facebook SDK</li>
+<li>Google Cloud Storage</li>
+</ul>
+</b>
 
 
 <img src="https://raw.github.com/saitejdandge/Questo/master/Screenshots/Screenshot_2016-08-14-14-31-38.png" width="200" />
