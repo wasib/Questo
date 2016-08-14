@@ -13,12 +13,13 @@ Integrated with Quora & Stack Exchange
 
 
 <b>Technologies / SDK's / API's used :</b>
-
-
 Firebase Real Time Database
 Firebase Cloud messaging
 Facebook SDK
 Google Cloud Storage
+
+
+
 <img src="https://raw.github.com/saitejdandge/Questo/master/Screenshots/Screenshot_2016-08-14-14-31-38.png" width="200" />
 <img src="https://raw.github.com/saitejdandge/Questo/master/Screenshots/Screenshot_2016-08-14-14-31-42.png" width="200"/>
 <img src="https://raw.github.com/saitejdandge/Questo/master/Screenshots/Screenshot_2016-08-14-14-31-47.png" width="200"/>
