@@ -1,0 +1,28 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.tdevelopers.questo.TagOpenFragments.TagOpenQuestionFragment">
+
+
+    <com.wang.avi.AVLoadingIndicatorView
+        android:id="@+id/avloading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        app:indicator="BallPulse"
+        android:layout_gravity="center"
+        app:indicator_color="#2196F3" />
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/swipeRefreshLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/tagopenquestionrv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </android.support.v4.widget.SwipeRefreshLayout>
+</FrameLayout>
