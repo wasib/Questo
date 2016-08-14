@@ -1,5 +1,7 @@
 # Questo
 
+<a href="https://play.google.com/store/apps/details?id=com.tdevelopers.questo">Questo</a>
+
 Questo is crowd sourced application, in which an authenticated user can upload a MCQ or write a blog/feed with tags included.
 
 Leadership board is shown with users all over the world. 
@@ -18,7 +20,4 @@ Firebase Cloud messaging
 Facebook SDK
 Google Cloud Storage
 
-App Link :
-
-Questo (https://play.google.com/store/apps/details?id=com.tdevelopers.questo)
 
